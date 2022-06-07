@@ -5,7 +5,7 @@
 - 👀 I’m currently working in **Selenium Webdriver | API** 
 - 🌱 I’m currently learning **Algorithms / Data Structures**
 - 💞️ I’m looking to collaborate on **Javascript Selenium Frameworks**
-- 📫 How to reach me **bgayathriofficial@gmai.com**
+- 📫 How to reach me **bgayathriofficial@gmail.com**
 
 <!---
 Gayathri-AutomationQA/Gayathri-AutomationQA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
